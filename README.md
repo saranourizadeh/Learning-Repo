@@ -1,9 +1,13 @@
-# test2
+# Learning-Project
 
 
-This is REadme file!!
+This is a Readme file!!
 
-\
-this is second !
-this is third
+I do these project to learn more and review ML models.
+
+Please say me if you have any suggestion to learn more in Data Science.
+
+Thanks
+SARA:)
+
 
