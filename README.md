@@ -3,9 +3,9 @@
 
 This is a Readme file!!
 
-I do these project to learn more and review ML models.
+I do these projects to learn and review ML models.
 
-Please say me if you have any suggestion to learn more in Data Science.
+Please suggest me how I can learn more in Data Science.
 
 Thanks
 
